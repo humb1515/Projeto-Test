@@ -15,6 +15,7 @@ namespace Projeto_Test
         public Form1()
         {
             InitializeComponent();
+            MessageBox.Show("Eu estou no git");
         }
     }
 }
